@@ -2,6 +2,8 @@
 ### High School of Telecommunication Art and Technology
 **richardp168@nycstudents.net**
 
+---
+
 __A student that attends the school abbreviated Hstat as a sophomore__
 #### Schedule
 * Algebra 2
@@ -13,4 +15,6 @@ __A student that attends the school abbreviated Hstat as a sophomore__
 * Lunch
 * Chemistry
 
----
+### These are some of the classes I take
+For other work that might be interesting
+[portfolio](https://richardp6889.github.io/)
