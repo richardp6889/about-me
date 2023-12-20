@@ -16,5 +16,16 @@ __A student that attends the school abbreviated Hstat as a sophomore__
 * Chemistry
 
 ### These are some of the classes I take
+
+### interest
+* Physcial
+  * swim
+  * weight training
+  * running
+  * work
+* Mental
+  * reading
+  * video games
+  
 For other work that might be interesting
 [portfolio](https://richardp6889.github.io/)
